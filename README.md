@@ -2,6 +2,7 @@
 ## Playing 2 player Mancala game using AI. See ai.py for implementation using Minmax algorithm with Alpha-Beta pruning.
 
 See ![alt text](https://github.com/shettyprithvi/Artificial_Intelligence_Mancala_game/blob/master/Assignment%203%20Kalah%20Game.pdf)
+for the report with further details.
 
 ### Overview: 
 Mancala is a two – player game which is turn-based. 
