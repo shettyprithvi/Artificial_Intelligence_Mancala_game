@@ -1,6 +1,5 @@
 # Artificial_Intelligence_Mankala_game
-Playing 2 player Mankala game using AI
-
+## Playing 2 player Mankala game using AI. See ai.py for implementation using Minmax algorithm with Alpha-Beta pruning.
 
 ### Overview: 
 Kalah is a two – player game which is turn-based. 
