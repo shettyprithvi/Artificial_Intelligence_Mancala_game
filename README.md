@@ -1,8 +1,8 @@
-# Artificial_Intelligence_Mankala_game
-## Playing 2 player Mankala game using AI. See ai.py for implementation using Minmax algorithm with Alpha-Beta pruning.
+# Artificial_Intelligence_Mancala_game
+## Playing 2 player Mancala game using AI. See ai.py for implementation using Minmax algorithm with Alpha-Beta pruning.
 
 ### Overview: 
-Kalah is a two – player game which is turn-based. 
+Mancala is a two – player game which is turn-based. 
 The board has 12 holes and one goal hole for each player. 
 Each player has 6 holes on their side assigned to themselves. Each hole has 6 stones at start in each thus there are total 72 stones at the start. 
 The player whose turn it is chooses one of the 6 holes they own which is not empty. The stones in the hole are held completely and distributed one by one into the subsequent holes moving anti-clockwise, skipping only the goal of the opposite player. 
