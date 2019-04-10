@@ -18,7 +18,7 @@ class ai:
             self.b_fin = b_fin
 
     # Kalah:
-    #         b[5]  b[4]  b[3]  b[2]  b[1]  b[0]
+    #         b[5]  b[4]  b[3]  b[2]  b[1]  b[0
     # b_fin                                         a_fin
     #         a[0]  a[1]  a[2]  a[3]  a[4]  a[5]
     # Main function call:

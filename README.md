@@ -13,7 +13,7 @@ The player whose turn it is chooses one of the 6 holes they own which is not emp
 
 ### Aim: The final aim is to collect as many stones as possible in their own goal or Kalah.
 
-### Rules: 
+## Rules: 
 1.The game will end when one of the sides (6 holes) are completely empty.
 2.The player exceeds a score of 36
 3.If the last stone lands on the goal of the player, the player gets an extra chance.

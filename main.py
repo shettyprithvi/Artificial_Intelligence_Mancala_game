@@ -131,7 +131,7 @@ class startUI(QMainWindow):
             aifile = os.path.abspath('./ai.py')
 
     def cancelCreate(self):
-        #self.allui.lbStatus.setText('Canceled')
+        #self.allui.lbStatus.setText('Canceld')
         self.allui.lvHosts.setEnabled(True)
         self.allui.pbCreate.setEnabled(True)
         self.allui.pbGo.setEnabled(True)
